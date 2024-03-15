@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://e0.pxfuel.com/wallpapers/125/919/desktop-wallpaper-why-amplyfi-selected-aws-as-a-strategic-partner-amazon-web-services.jpg"  />
+  <img height="250" src="https://e0.pxfuel.com/wallpapers/125/919/desktop-wallpaper-why-amplyfi-selected-aws-as-a-strategic-partner-amazon-web-services.jpg"  />
 </div>
 
 ###
