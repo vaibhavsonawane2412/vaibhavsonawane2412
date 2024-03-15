@@ -28,11 +28,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/vaibhavsonawane2412/vaibhavsonawane2412/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
