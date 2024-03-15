@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="1250" src="https://www.unosquare.com/wp-content/uploads/2023/10/cloud_engineer.png"  />
+  <img height="400" src="https://e0.pxfuel.com/wallpapers/125/919/desktop-wallpaper-why-amplyfi-selected-aws-as-a-strategic-partner-amazon-web-services.jpg"  />
 </div>
 
 ###
@@ -29,8 +29,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/vaibhavsonawane2412/vaibhavsonawane2412/output/snake.svg" alt="Snake animation" />
 
@@ -62,9 +60,7 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
-###
